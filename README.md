@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Larissa Almeida 👋</h1>
+<h1 align="center">Olá, eu sou Lari Almeida 👋</h1>
 
 <h3 align="center">Ciência de Dados · Análise de Dados em Saúde · Gestão Hospitalar</h3>
 
