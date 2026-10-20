@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/almeidalarissahorrara"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:larissahorrara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
-  <img src="https://img.shields.io/badge/Portf%C3%B3lio%20de%20IA-em%20constru%C3%A7%C3%A3o-8A2BE2?style=for-the-badge" alt="Portfólio de Inteligência Artificial em construção">
+  <img src="https://img.shields.io/badge/IA?style=for-the-badge" alt="Portfólio de Inteligência Artificial em construção">
 </p>
 
 <p align="center">
