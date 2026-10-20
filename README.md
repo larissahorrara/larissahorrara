@@ -36,18 +36,18 @@ Meu diferencial é unir mais de dez anos de vivência no SUS ao olhar analítico
 Ao longo da carreira, produzi relatórios gerenciais, censos hospitalares, painéis de Gestão à Vista e acompanhamento de indicadores. Desde a graduação, atuo com análise de dados, como no estudo sobre os motivos de readmissão hospitalar desenvolvido no Hospital Risoleta Tolentino Neves.
 
 Trabalho atualmente para criar habilidades para:
-Desenvolver e aplicar modelos estatísticos, analíticos e preditivos para identificação de padrões, tendências e oportunidades, subsidiando a tomada de decisões estratégicas e operacionais.
-Desenvolver, implementar e aprimorar soluções baseadas em inteligência artificial e aprendizado de máquina (machine learning), incluindo técnicas de séries temporais, processamento de linguagem natural (NLP) e aprendizado profundo (deep learning).
-Realizar atividades de coleta, tratamento, integração, transformação e preparação de dados, incluindo técnicas de engenharia de atributos (feature engineering), assegurando sua qualidade e adequação às análises e aos modelos desenvolvidos
-Desenvolver rotinas, algoritmos e soluções computacionais para processamento, manipulação e análise de dados, utilizando linguagens de programação como Python, R, SAS ou equivalentes, além de SQL para consulta e gerenciamento de bases de dados.
-Implementar e acompanhar processos de operacionalização, atualização e monitoramento de modelos analíticos e de inteligência artificial, utilizando práticas de MLOps para assegurar seu desempenho, confiabilidade e melhoria contínua.
-Elaborar painéis interativos, relatórios gerenciais, indicadores e visualizações de dados que facilitem a interpretação de informações e apoiem o planejamento, o monitoramento e a avaliação de programas, projetos e iniciativas institucionais.
-Apoiar a implementação de práticas de governança de dados, promovendo a qualidade, integridade, segurança, rastreabilidade e utilização adequada das informações institucionais.
-Aplicar princípios de ética, transparência e responsabilidade no desenvolvimento e utilização de soluções de inteligência artificial, observando as diretrizes de governança, proteção de dados e uso responsável dessas tecnologias.
-Identificar oportunidades de inovação e automação de processos por meio da análise de dados, inteligência artificial e outras tecnologias, contribuindo para o aumento da eficiência e da 
+- **Desenvolver e aplicar modelos estatísticos, analíticos e preditivos para identificação de padrões, tendências e oportunidades, subsidiando a tomada de decisões estratégicas e operacionais.
+- **Desenvolver, implementar e aprimorar soluções baseadas em inteligência artificial e aprendizado de máquina (machine learning), incluindo técnicas de séries temporais, processamento de linguagem natural (NLP) e aprendizado profundo (deep learning).
+- **Realizar atividades de coleta, tratamento, integração, transformação e preparação de dados, incluindo técnicas de engenharia de atributos (feature engineering), assegurando sua qualidade e adequação às análises e aos modelos desenvolvidos
+- **Desenvolver rotinas, algoritmos e soluções computacionais para processamento, manipulação e análise de dados, utilizando linguagens de programação como Python, R, SAS ou equivalentes, além de SQL para consulta e gerenciamento de bases de dados.
+- **Implementar e acompanhar processos de operacionalização, atualização e monitoramento de modelos analíticos e de inteligência artificial, utilizando práticas de MLOps para assegurar seu desempenho, confiabilidade e melhoria contínua.
+- **Elaborar painéis interativos, relatórios gerenciais, indicadores e visualizações de dados que facilitem a interpretação de informações e apoiem o planejamento, o monitoramento e a avaliação de programas, projetos e iniciativas institucionais.
+- **Apoiar a implementação de práticas de governança de dados, promovendo a qualidade, integridade, segurança, rastreabilidade e utilização adequada das informações institucionais.
+- **Aplicar princípios de ética, transparência e responsabilidade no desenvolvimento e utilização de soluções de inteligência artificial, observando as diretrizes de governança, proteção de dados e uso responsável dessas tecnologias.
+- **Identificar oportunidades de inovação e automação de processos por meio da análise de dados, inteligência artificial e outras tecnologias, contribuindo para o aumento da eficiência e da 
 produtividade institucional.
-Elaborar estudos técnicos, análises, relatórios e recomendações baseados em dados, contribuindo para o desenvolvimento, acompanhamento e avaliação de ações estratégicas.]
-Executar outras atividades correlatas à análise de dados, modelagem estatística, inteligência artificial e gestão de informações, conforme as necessidades institucionais.
+- **Elaborar estudos técnicos, análises, relatórios e recomendações baseados em dados, contribuindo para o desenvolvimento, acompanhamento e avaliação de ações estratégicas.]
+- **Executar outras atividades correlatas à análise de dados, modelagem estatística, inteligência artificial e gestão de informações, conforme as necessidades institucionais.
 
 
 
